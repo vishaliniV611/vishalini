@@ -1,0 +1,28 @@
+{
+"profile":{"name":"Vishalini E V","title":"M.Sc. Microbiology","school":"Bharathidasan University, Tiruchirappalli","summary":"Microbiology graduate with hands-on experience in microbiological techniques, molecular biology, laboratory research and quality control, gained through academic projects and internships. Completed a research project at the Food Technology Division, BARC, on phytosanitary treatment and shelf-life of fruits. Available to join immediately and seeking an entry-level role in microbiology, quality control, quality assurance, research, food, pharmaceutical or biotechnology.","email":"vishalinivelliangiri2003@gmail.com","phone":"9486668333","linkedin":"https://www.linkedin.com/in/vishalini-velliangiri-051904292"},
+"skills":[
+{"g":"Microbiology","items":["Microbial culturing and isolation","Gram staining and microscopy","Antimicrobial susceptibility testing","CFU counting","OD measurement","Aseptic handling","Media preparation"]},
+{"g":"Quality control","items":["Sterility testing","Microbial limit testing","Environmental monitoring","Contamination control"]},
+{"g":"Molecular biology","items":["PCR","RT-PCR","DNA isolation","RNA isolation","Plasmid isolation","cDNA synthesis","Gel electrophoresis","Electroporation"]},
+{"g":"Quality systems","items":["GMP","GLP","GDP","Data integrity","Laboratory documentation","Report writing"]}],
+"projects":[
+{"title":"Use of electron beam for phytosanitary treatment and shelf life extension of guava fruit","where":"M.Sc. project, Bhabha Atomic Research Centre (BARC), Mumbai","when":"Dec 2025 – Apr 2026","points":["Studied the effect of electron beam irradiation on the quality, physiological characteristics and storage life of fresh guava.","Evaluated the combined impact of packaging materials and electron beam treatment on shelf life.","Assessed antibrowning agents for maintaining fruit quality during storage.","Monitored changes in microbial quality and post-harvest characteristics after treatment."],"note":"Ongoing BARC project: publication needs consent from FTD, BARC.","cert":"barc"},
+{"title":"Antimicrobial activity of lemon grass and Java tea against soil pathogens","where":"B.Sc. project","when":"Jan – Apr 2024","points":["Investigated Cymbopogon citratus and Orthosiphon stamineus against soil-borne pathogens.","Prepared ethanolic and aqueous extracts and tested them by agar well diffusion.","Ethanolic extracts showed higher antimicrobial effectiveness.","Performed 16S rRNA sequencing to identify bacterial strains affected by the extracts."]}],
+"internships":[
+{"org":"Food Technology Division, BARC, Mumbai","when":"1 Jan – 15 Apr 2026","cert":"barc"},
+{"org":"FCI, Chennai","when":"4 – 13 Jun 2025"},
+{"org":"Bacteriology Department, ICMR-NIRT, Chennai","when":"19 May – 2 Jun 2025","cert":"icmr"},
+{"org":"Abi SK Hospital, Gobichettipalayam","when":"27 May – 14 Jun 2024"},
+{"org":"Bioline Laboratory, Coimbatore","when":"15 – 30 Jun 2023"}],
+"education":[
+{"deg":"M.Sc. Microbiology","school":"Bharathidasan University, Tiruchirappalli","when":"Jul 2024 – Apr 2026","score":"84.75%"},
+{"deg":"B.Sc. Microbiology","school":"K.S.R. College of Arts and Science, Tiruchengode","when":"Oct 2021 – Jun 2024","score":"84%"}],
+"certifications":["NPTEL: Research Methodology (Elite), Jul–Sep 2025","NPTEL: RNA Biology (Elite), Jan–Apr 2025","NPTEL: Host–Pathogen Interaction in Immunology, Jan–Jul 2024"],
+"awards":["1st Rank in the semester examinations, 2021–2024","Workshop: Recent Advances in Biomedical Sciences for Accelerating Drug Discovery and Therapeutics (2026)","Workshop: Chlorella Genomics, Cultivation and Value-Added Products (2025)","National-level seminar: Human, Animal, Plant and Vector-Borne Diseases and Their Control (2024)","International conference: Biotechnological Effective Approaches in Science and Technology (2022)","Workshop on 3L: Language, Literature and Life (2022)"],
+"certificates":[
+{"id":"barc","title":"Research thesis certificate","by":"BARC, Government of India","date":"2026"},
+{"id":"icmr","title":"Internship certificate of attendance","by":"ICMR-NIRT, Chennai","date":"May – Jun 2025"},
+{"id":"nrmc","title":"Chlorella genomics, cultivation and value-added products","by":"TNSCST and NRMC-F, Bharathidasan University","date":"1–3 Sep 2025"},
+{"id":"mbsi","title":"Annual student membership, MSS4152","by":"Microbiologists Society, India","date":"2025 – 2026"},
+{"id":"seminar","title":"National seminar on vector borne diseases and their control","by":"Dept. of Microbiology, Bharathidasan University","date":"25 Sep 2024"}]
+}
